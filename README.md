@@ -4,7 +4,7 @@ This repository contains the code for our project,
 **"Knowledge Graphs and Graph Neural Networks: A Unified Approach for Multi-Omics Applications,"**  
 
 
-![Alt text](images/__overview_framework.png)
+![Alt text](images/kg_framework.png)
 
 
 ## Data Source
