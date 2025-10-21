@@ -1,7 +1,7 @@
-## A Computational Learning Approach for Interpretable Cancer Genomics
+## Knowledge Graphs and Graph Neural Networks: A Unified Approach for Multi-Omics Applications
 
 This repository contains the code for our project,  
-**"A Computational Learning Approach for Interpretable Cancer Genomics,"**  
+**"Knowledge Graphs and Graph Neural Networks: A Unified Approach for Multi-Omics Applications,"**  
 
 
 ![Alt text](images/__overview_framework.png)
